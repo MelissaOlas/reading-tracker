@@ -1,0 +1,10 @@
+POST http://localhost:5000/books
+Content-Type: application/json
+
+{
+  "id": 2,
+  "title": "What you are looking for is in the library",
+  "author": "Michiko Aoyama",
+  "summary": "What You Are Looking for is in the Library is a tale told through five different library patrons. Each of them has something going on in their life that is causing them some kind of problems or anxiety, but thanks to the strange reading recommendations from the librarian, each eventually finds a way forward.",
+  "picture": "https://m.media-amazon.com/images/I/51DIWGqJW9L.jpg"
+}
